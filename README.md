@@ -1,4 +1,4 @@
-👋 'Hello World'; I'm Pavan, a passionate junior developer on a journey to unlock the wonders of coding and programming! 
+👋 'Hello World'; I'm Pavan, a passionate developer on a journey to unlock the wonders of coding and programming! 
 
 🌱 Currently, I'm immersed in the world of back-end programming, exploring and experimenting to expand my knowledge base. I find joy in building projects that not only solve problems but also teach me something new in the process.
 
